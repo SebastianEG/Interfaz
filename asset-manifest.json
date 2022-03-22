@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/SebastianEG/Interfaz/static/css/main.126cb7ec.css",
-    "main.js": "/SebastianEG/Interfaz/static/js/main.698783e4.js",
-    "static/js/787.16307a58.chunk.js": "/SebastianEG/Interfaz/static/js/787.16307a58.chunk.js",
-    "static/media/primeicons.svg": "/SebastianEG/Interfaz/static/media/primeicons.c6e2053303524e39530c.svg",
-    "static/media/primeicons.eot": "/SebastianEG/Interfaz/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
-    "static/media/primeicons.woff": "/SebastianEG/Interfaz/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
-    "static/media/primeicons.ttf": "/SebastianEG/Interfaz/static/media/primeicons.91bacab1f083f2795272.ttf",
-    "index.html": "/SebastianEG/Interfaz/index.html",
-    "main.126cb7ec.css.map": "/SebastianEG/Interfaz/static/css/main.126cb7ec.css.map",
-    "main.698783e4.js.map": "/SebastianEG/Interfaz/static/js/main.698783e4.js.map",
-    "787.16307a58.chunk.js.map": "/SebastianEG/Interfaz/static/js/787.16307a58.chunk.js.map"
+    "main.css": "/Interfaz/static/css/main.16d7e74d.css",
+    "main.js": "/Interfaz/static/js/main.e8c8c976.js",
+    "static/js/787.16307a58.chunk.js": "/Interfaz/static/js/787.16307a58.chunk.js",
+    "static/media/primeicons.svg": "/Interfaz/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/Interfaz/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/Interfaz/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/Interfaz/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "index.html": "/Interfaz/index.html",
+    "main.16d7e74d.css.map": "/Interfaz/static/css/main.16d7e74d.css.map",
+    "main.e8c8c976.js.map": "/Interfaz/static/js/main.e8c8c976.js.map",
+    "787.16307a58.chunk.js.map": "/Interfaz/static/js/787.16307a58.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.126cb7ec.css",
-    "static/js/main.698783e4.js"
+    "static/css/main.16d7e74d.css",
+    "static/js/main.e8c8c976.js"
   ]
 }
